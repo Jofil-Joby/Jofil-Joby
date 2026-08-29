@@ -54,6 +54,25 @@ Currently focused on improving my skills in full-stack development while explori
 
 
 
+## Contribution Activity
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Jofil-Joby/Jofil-Joby/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Jofil-Joby/Jofil-Joby/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      alt="Animated GitHub contribution snake"
+      src="https://raw.githubusercontent.com/Jofil-Joby/Jofil-Joby/output/github-contribution-grid-snake-dark.svg"
+    />
+  </picture>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
