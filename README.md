@@ -53,13 +53,9 @@ I'm currently focused on improving my full-stack development skills while explor
 
 ## GitHub Statistics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jofil-Joby&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Jofil-Joby&theme=github-dark-blue&hide_border=true" alt="GitHub streak" height="165" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jofil-Joby&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub statistics" height="170" />
+  <img src="./profile/top-langs.svg" alt="Top languages" height="170" />
 </p>
 
 ## Contribution Activity
