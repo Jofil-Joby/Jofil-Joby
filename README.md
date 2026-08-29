@@ -54,8 +54,8 @@ I'm currently focused on improving my full-stack development skills while explor
 ## GitHub Statistics
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub statistics" height="170" />
-  <img src="./profile/top-langs.svg" alt="Top languages" height="170" />
+  <img src="https://raw.githubusercontent.com/Jofil-Joby/Jofil-Joby/main/profile/stats.svg" alt="GitHub statistics" height="170" />
+  <img src="https://raw.githubusercontent.com/Jofil-Joby/Jofil-Joby/main/profile/top-langs.svg" alt="Top languages" height="170" />
 </p>
 
 ## Contribution Activity
