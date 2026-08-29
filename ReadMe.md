@@ -42,17 +42,6 @@ Currently focused on improving my skills in full-stack development while explori
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## GitHub Statistics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jofil-Joby&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jofil-Joby&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jofil-Joby&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-
----
-
 <p align="center">
   Building, learning, and improving one project at a time.
 </p>
