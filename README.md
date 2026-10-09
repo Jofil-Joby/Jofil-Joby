@@ -17,6 +17,24 @@ I'm currently focused on improving my full-stack development skills while explor
 - Interested in open-source projects and practical web applications
 - Working with JavaScript, Python, web technologies, and Chrome extensions
 
+## Featured Projects
+
+A selection of projects I'm building and learning from.
+
+### [Aster — Chrome New Tab Dashboard](https://github.com/Jofil-Joby/Aster)
+A lightweight Chrome extension that turns the new-tab page into a personal workspace for search, shortcuts, tasks, notes, daily planning, and a focus timer. Built with HTML, CSS, JavaScript, and Chrome Manifest V3.
+
+### [Junex — Emergency Communication & Disaster Coordination](https://github.com/Jofil-Joby/Junex)
+An Android prototype exploring emergency SOS workflows, hazard reports, alerts, and coordination between citizens, volunteers, and responders when conventional communication infrastructure is unreliable.
+
+### [PersonalOS](https://github.com/Jofil-Joby/PersonalOS)
+A personal workspace project focused on bringing useful tools and workflows together in one place.
+
+### [Real-Time Leaderboard](https://github.com/Jofil-Joby/Real-Time-Leaderboard)
+A project exploring real-time leaderboard functionality.
+
+**Explore more:** [All repositories](https://github.com/Jofil-Joby?tab=repositories)
+
 ## Connect
 
 <p>
